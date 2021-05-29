@@ -1,4 +1,4 @@
-# ws2020-group-2
+# Interactive Machine Learning: ws2020-group-2
 
 ## Project: AI in Finance
 
@@ -17,6 +17,6 @@ Having such milestones/phases as:
 
 ## Flask API
 
-0. cd ws2020-group-2/
+0. cd interactive-bitcoin-price-prediction/
 1. install all dependencies `pip install -r requirements.txt`
 2. start server using `bash start_server.sh` or `./bash start_server.sh`
